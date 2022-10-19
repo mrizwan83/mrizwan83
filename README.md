@@ -43,7 +43,13 @@ Technologies Used:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizwan83&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api?username=mrizwan83&theme=blue-green" />
 
-## FaceDiary Demo
+## [FaceDiary](http://facediary.herokuapp.com/#/)
+![](https://media.giphy.com/media/87EqaNnmZdjeiiqhhc/giphy.gif)
+
+## AdventurScape Demo
+![](https://media.giphy.com/media/87EqaNnmZdjeiiqhhc/giphy.gif)
+
+## Crawl Demo
 ![](https://media.giphy.com/media/87EqaNnmZdjeiiqhhc/giphy.gif)
 
 
