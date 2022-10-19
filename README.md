@@ -43,6 +43,10 @@ Technologies Used:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizwan83&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api?username=mrizwan83&theme=blue-green" />
 
+## FaceDiary Demo
+![](https://media.giphy.com/media/87EqaNnmZdjeiiqhhc/giphy.gif)
+
+
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizwanm76@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-h-rizwan-a83a31246/)
