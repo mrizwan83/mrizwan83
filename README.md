@@ -46,10 +46,10 @@ Technologies Used:
 ## [FaceDiary](http://facediary.herokuapp.com/#/)
 ![](https://media.giphy.com/media/87EqaNnmZdjeiiqhhc/giphy.gif)
 
-## AdventurScape Demo
+## [AdventureScape](https://mrizwan83.github.io/adventurescape/)
 ![](https://media.giphy.com/media/87EqaNnmZdjeiiqhhc/giphy.gif)
 
-## Crawl Demo
+## [Crawl](http://socialcrawl.herokuapp.com/#/)
 ![](https://media.giphy.com/media/87EqaNnmZdjeiiqhhc/giphy.gif)
 
 
