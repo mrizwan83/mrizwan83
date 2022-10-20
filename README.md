@@ -1,8 +1,9 @@
 <!-- 
 ### [![Typing SVG] -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Mohammad+H.+Rizwan;Full+Stack+Web+Developer" />
+## [Portfolio](https://mrizwan83.github.io/mrizwan83/) Live Link
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Mohammad+H.+Rizwan;Full+Stack+Web+Developer" />
 
 A little about me :innocent: : 
 - 🎓 I am a Full Stack Software Engineer 
