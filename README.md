@@ -51,7 +51,7 @@ Technologies Used:
 ![](https://media.giphy.com/media/D7iTRyFsjkQkXsB6wh/giphy.gif)
 
 ## [Crawl](http://socialcrawl.herokuapp.com/#/)
-![](https://media.giphy.com/media/kNoTz3eH03l4dRbvoE/giphy.gif)
+![](https://media.giphy.com/media/GmkscfadwdZH3k3VO4/giphy.gif)
 
 
 ### :e-mail: Contact Me
