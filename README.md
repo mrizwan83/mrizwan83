@@ -44,7 +44,8 @@ Technologies Used:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizwan83&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api?username=mrizwan83&theme=blue-green" />
 
-## [FaceDiary](http://facediary.herokuapp.com/#/)
+## [FaceDiary](https://facediary.herokuapp.com/#/) Heroku Live Link
+## [FaceDiary](https://facediary.onrender.com) Render Live Link
 ![](https://media.giphy.com/media/87EqaNnmZdjeiiqhhc/giphy.gif)
 
 ## [AdventureScape](https://mrizwan83.github.io/adventurescape/)
