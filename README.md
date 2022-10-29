@@ -8,10 +8,10 @@
 A little about me :innocent: : 
 - 🎓 I am a Full Stack Software Engineer 
 - 💻 I'm currently open for work
-- 🔭 I’m currently working on website clones
-- 🌱 I’m currently learning DS & A
-- 👯 I’m looking to collaborate on fullstack projects
-- 📫 How to reach me: Email: rizwanm76@yahoo.com 📫 
+- 🔭 I’m currently working on getting my AWS Cloud Practitioner Cerificate
+- 🌱 I’m currently learning DS & A 
+- 👯 I’m looking to collaborate on Cloud Computing
+- 📫 How to reach me: Email: mhrizwandev@gmail.com 📫 
 
 
 Technologies Used:
@@ -57,7 +57,7 @@ Technologies Used:
 
 
 ### :e-mail: Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizwanm76@yahoo.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhrizwandev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-h-rizwan-a83a31246/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/mohammad-h-rizwan)
 <!--
