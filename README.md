@@ -8,9 +8,9 @@
 A little about me :innocent: : 
 - 🎓 I am a Full Stack Software Engineer 
 - 💻 I'm currently open for work
-- 🔭 I’m currently working on getting my AWS Cloud Practitioner Cerificate
+- 🔭 I’m currently working on full stack applications
 - 🌱 I’m currently learning DS & A 
-- 👯 I’m looking to collaborate on Cloud Computing
+- 👯 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: Email: mhrizwandev@gmail.com 📫 
 
 
