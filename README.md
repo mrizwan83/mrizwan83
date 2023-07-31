@@ -1,7 +1,8 @@
 <!-- 
 ### [![Typing SVG] -->
 
-## [Portfolio](https://mrizwan83.github.io/mrizwan83/) Live Link
+## [3D Portfolio](https://mrizwan-portfolio.vercel.app/) Live Link
+## [Github Portfolio](https://mrizwan83.github.io/mrizwan83/) Live Link
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Mohammad+H.+Rizwan;Full+Stack+Web+Developer" />
 
