@@ -45,7 +45,7 @@ Technologies Used:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizwan83&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api?username=mrizwan83&theme=blue-green" />
 
-## [RizzyPrompts](https://rizzyprompts.com/)
+## [RizzyPrompts](https://rizzyprompts.com/) RizzyPrompts Live Link
 
 ## [FaceDiary](https://facediary.herokuapp.com/#/) Heroku Live Link
 ## [FaceDiary](https://facediary.onrender.com) Render Live Link
