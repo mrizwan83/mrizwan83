@@ -41,9 +41,6 @@ Technologies Used:
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 
-### :gear: GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizwan83&theme=blue-green" />
-<img src="https://github-readme-stats.vercel.app/api?username=mrizwan83&theme=blue-green" />
 
 ## [RizzyPrompts](https://rizzyprompts.com/) RizzyPrompts Live Link
 
