@@ -2,7 +2,7 @@
 ### [![Typing SVG] -->
 
 ## [3D Portfolio](https://mrizwan-portfolio.vercel.app/) Live Link
-## [Github Portfolio](https://mrizwan83.github.io/mrizwan83/) Live Link
+
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Mohammad+H.+Rizwan;Full+Stack+Web+Developer" />
 
@@ -10,7 +10,7 @@ A little about me :innocent: :
 - 🎓 I am a Full Stack Software Engineer 
 - 💻 I'm currently open for work
 - 🔭 I’m currently working on RizzyPrompts
-- 🌱 I’m currently learning Next.js 13
+- 🌱 I’m currently working on a java backend using springboot jpa with postgresql 
 - 👯 I’m looking to collaborate 
 - 📫 How to reach me: Email: mhrizwandev@gmail.com 📫 
 
@@ -45,14 +45,14 @@ Technologies Used:
 ## [RizzyPrompts](https://rizzyprompts.com/) RizzyPrompts Live Link
 
 ## [FaceDiary](https://facediary.herokuapp.com/#/) Heroku Live Link
-## [FaceDiary](https://facediary.onrender.com) Render Live Link
+
 ![](https://media.giphy.com/media/87EqaNnmZdjeiiqhhc/giphy.gif)
 
 ## [AdventureScape](https://mrizwan83.github.io/adventurescape/)
 ![](https://media.giphy.com/media/D7iTRyFsjkQkXsB6wh/giphy.gif)
 
 ## [Crawl](http://socialcrawl.herokuapp.com/#/) Heroku Live Link
-## [Crawl](https://crawl-w52w.onrender.com) Render Live Link
+
 ![](https://media.giphy.com/media/GmkscfadwdZH3k3VO4/giphy.gif)
 
 
@@ -60,17 +60,3 @@ Technologies Used:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhrizwandev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-h-rizwan-a83a31246/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/mohammad-h-rizwan)
-<!--
-**mrizwan83/mrizwan83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
