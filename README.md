@@ -1,26 +1,28 @@
-<!-- 
-### [![Typing SVG] -->
+
+
 
 ## [3D Portfolio](https://mrizwan-portfolio.vercel.app/) Live Link
 
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Mohammad+H.+Rizwan;Full+Stack+Web+Developer" />
-
-A little about me :innocent: : 
-- 🎓 I am a Full Stack Software Engineer 
+A little about me 😇:
+- 🎓 I am a Full Stack Software Engineer
 - 💻 I'm currently open for work
-- 🔭 I’m currently working on RizzyPrompts
-- 🌱 I’m currently working on a java backend using springboot jpa with postgresql 
-- 👯 I’m looking to collaborate 
-- 📫 How to reach me: Email: mhrizwandev@gmail.com 📫 
+- 🔭 I'm currently working on Client Projects
+- 🌱 I'm currently working on a Java backend using Spring Boot, JPA, and PostgreSQL
+- 👯 I'm currently volunteering for a youth league's website rebuild
+- 📫 How to reach me: Email: mhrizwandev@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-h-rizwan/
 
+📫 Technologies Used:
 
-Technologies Used:
-
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -31,7 +33,6 @@ Technologies Used:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
