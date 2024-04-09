@@ -1,14 +1,12 @@
-
-
-
 ## [3D Portfolio](https://mrizwan-portfolio.vercel.app/) Live Link
 
 A little about me 😇:
 - 🎓 I am a Full Stack Software Engineer
-- 💻 I'm currently open for work
-- 🔭 I'm currently working on Client Projects
-- 🌱 I'm currently working on a Java backend using Spring Boot, JPA, and PostgreSQL
-- 👯 I'm currently volunteering for a youth league's website rebuild
+- 💻 I'm currently open for work and excited to take on new challenges!
+- 🔭 I'm currently working on various client projects, delivering high-quality solutions.
+- 🌱 I'm currently expanding my skills by working on a Java backend using Spring Boot, JPA, and PostgreSQL.
+- 🌐 I'm passionate about web development and love creating interactive and user-friendly experiences.
+
 - 📫 How to reach me: Email: mhrizwandev@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mohammad-h-rizwan/
 
@@ -41,9 +39,14 @@ A little about me 😇:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-## [RizzyPrompts](https://rizzyprompts.com/) RizzyPrompts Live Link
+## [Bronx Warriors](https://bronxwarriors.vercel.app/) Live Link
+![image](https://github.com/mrizwan83/mrizwan83/assets/105880357/ec1fb187-6cbb-4e94-b439-69d7ab5727d2)
+
+## [RizzyPrompts](https://rizzyprompts.com/) Live Link
+![image](https://github.com/mrizwan83/mrizwan83/assets/105880357/93b3dce4-2cbd-4d92-b64b-ddda47448254)
 
 ## [FaceDiary](https://facediary.herokuapp.com/#/) Heroku Live Link
 
@@ -56,8 +59,13 @@ A little about me 😇:
 
 ![](https://media.giphy.com/media/GmkscfadwdZH3k3VO4/giphy.gif)
 
-
 ### :e-mail: Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhrizwandev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-h-rizwan-a83a31246/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-h-rizwan/)
 [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/mohammad-h-rizwan)
+
+
+Let's Enter the Matrix! 😎
+<div> 
+  <img src="https://opensource.com/sites/default/files/uploads/linux-toy-cmatrix-animated.gif" width="500" height="300"/>
+</div>
